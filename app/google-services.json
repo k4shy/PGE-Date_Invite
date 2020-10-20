@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044196881939",
+    "firebase_url": "https://date-invite.firebaseio.com",
+    "project_id": "date-invite",
+    "storage_bucket": "date-invite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044196881939:android:b066c0deb1f36ce310b1e6",
+        "android_client_info": {
+          "package_name": "za.co.kashvirsingh.pge_dateinvite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044196881939-npqojjbe3vqkpphdbai52b620a685f5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.kashvirsingh.pge_dateinvite",
+            "certificate_hash": "e308b60511c4d99f9399c88b200152f0cc5259d9"
+          }
+        },
+        {
+          "client_id": "1044196881939-fcocfto3c5327kk2t9u01qhj5cs8dndf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkBLIUvkdEN2aVG8GR7SZ_1_se446Feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044196881939-fcocfto3c5327kk2t9u01qhj5cs8dndf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
